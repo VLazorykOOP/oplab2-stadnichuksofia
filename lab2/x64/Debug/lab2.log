@@ -1,0 +1,11 @@
+﻿  lab2.cpp
+D:\2 course\Практика2024\lab_2\lab2\lab2.cpp(49,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\2 course\Практика2024\lab_2\lab2\lab2.cpp(50,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\2 course\Практика2024\lab_2\lab2\lab2.cpp(66,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\2 course\Практика2024\lab_2\lab2\lab2.cpp(67,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\2 course\Практика2024\lab_2\lab2\lab2.cpp(77,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\2 course\Практика2024\lab_2\lab2\lab2.cpp(82,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\2 course\Практика2024\lab_2\lab2\lab2.cpp(82,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\2 course\Практика2024\lab_2\lab2\lab2.cpp(83,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\2 course\Практика2024\lab_2\lab2\lab2.cpp(83,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  lab2.vcxproj -> D:\2 course\Практика2024\lab_2\lab2\x64\Debug\lab2.exe
